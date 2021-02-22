@@ -1,0 +1,1 @@
+Flag was placed inside wrong signed certificate
