@@ -1,0 +1,1 @@
+Flag was placed as a comment on the view-source:https://ctf.nahamcon.com/mission page.

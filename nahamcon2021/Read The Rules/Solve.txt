@@ -1,0 +1,1 @@
+Flag is placed in the page source on the page: view-source:https://ctf.nahamcon.com/rules

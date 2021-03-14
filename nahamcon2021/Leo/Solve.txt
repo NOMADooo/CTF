@@ -1,0 +1,4 @@
+The hardest one yet. I got some hints while talking to other people and I wasn't on the right track the entire time because of the very pupular first and last name...
+THe flag was on his instagram account https://www.instagram.com/_leorison/ - I've scanned a QR code in one of his photos and it gave the flag + hint (flag{636db5f4f0e36908a4f1a4edc5b0676e}
+
+A password for Leo is constelleorising)

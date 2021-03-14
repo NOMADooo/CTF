@@ -1,0 +1,4 @@
+Flags were in a specific channel description.
+ex. htb village, live recon village etc.
+
+Htb village flag .png - as an example

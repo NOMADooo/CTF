@@ -1,0 +1,1 @@
+After long battles with him I saw somewhere a hint to look for him from others accounts. So I went to gus github and there he was sitting in the followers. Flag was placed as a comment in the maintanence/connect.sh
